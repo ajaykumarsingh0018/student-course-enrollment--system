@@ -24,6 +24,3 @@ Practice creating databases, tables, and relationships using *MySQL Workbench*.
 - sql/schema.sql → SQL script to create schema
 - screenshots/ → ER diagram & Workbench screenshots
 - README.md → Explanation of the task
-
-## 📊 ER Diagram
-![ER Diagram](screenshots/er-diagram.png)
